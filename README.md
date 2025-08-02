@@ -16,9 +16,9 @@ This project demonstrates a complete production-ready implementation of an AI-po
 
 ## Architecture
 
-![Workflow Diagram](workflow-diagram.png)
+![Workflow Diagram](docs/workflow-diagram.png)
 
-![Block Diagram](block-diagram.png)
+![Block Diagram](docs/block-diagram.png)
 
 
 ## 📁 Project Structure
