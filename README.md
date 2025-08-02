@@ -2,19 +2,21 @@
 
 ## Contents
 1. [Overview](#overview)
-2. [Architecture](#architecture)
-3. [Project Structure](#project-structure)
-4. [Tech Stack](#tech-stack)
-5. [Ingesting Documents](#ingesting-documents)
-6. [Features](#features)
-7. [Deployment](#deployment)
+2. [Architecture](#⚙️-architecture)
+3. [Project Structure](#📁-project-structure)
+4. [Tech Stack](#💻-tech-stack)
+5. [Quickstart](#🚀-quickstart)
+6. [Ingesting Documents](#📥-ingesting-documents)
+7. [Voice Call Setup](#📞-voice-call-setup)
+8. [Features](#🧠-features)
+9. [Deployment](#📦-deployment)
 
 
 ## Overview
 
 This project demonstrates a complete production-ready implementation of an AI-powered support assistant. It features multimodal interaction (voice/chat), knowledge retrieval via vector search, and integration with Vapi for real-time voice calling. The system is built with FastAPI, LangChain, Weaviate, and Streamlit, containerized with Docker, and deployable on AWS. These agents handled customer queries with human-like precision across diverse channels, reduced support ticket load, improved CSAT scores, and integrated seamlessly with CRMs and business platforms.
 
-## Architecture
+## ⚙️ Architecture
 
 ![Workflow Diagram](docs/workflow-diagram.png)
 
