@@ -2,14 +2,14 @@
 
 ## Contents
 1. [Overview](#overview)
-2. [Architecture](#⚙️-architecture)
-3. [Project Structure](#📁-project-structure)
-4. [Tech Stack](#💻-tech-stack)
-5. [Quickstart](#🚀-quickstart)
-6. [Ingesting Documents](#📥-ingesting-documents)
-7. [Voice Call Setup](#📞-voice-call-setup)
-8. [Features](#🧠-features)
-9. [Deployment](#📦-deployment)
+2. [Architecture](#-architecture)
+3. [Project Structure](#-project-structure)
+4. [Tech Stack](#-tech-stack)
+5. [Quickstart](#-quickstart)
+6. [Ingesting Documents](#-ingesting-documents)
+7. [Voice Call Setup](#-voice-call-setup)
+8. [Features](#-features)
+9. [Deployment](#-deployment)
 
 
 ## Overview
