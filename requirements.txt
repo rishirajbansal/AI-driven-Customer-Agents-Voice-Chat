@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+openai
+weaviate-client
+python-dotenv
+tiktoken
+pydantic
+httpx
+streamlit
+whisper
+python-multipart
+vapi
